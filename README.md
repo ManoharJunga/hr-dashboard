@@ -68,16 +68,24 @@ A feature-rich, responsive **HR Performance Dashboard** built with **Next.js**, 
 - ✅ Create User modal with basic form validation
 - ✅ Pagination / Infinite Scroll for user list
 - ✅ Animated tab/content transitions (Framer Motion)
+There’s a small issue with your **screenshots table**: the column headers and the number of images don't match. You have **3 headers**, but **6 images**, so the layout will break in markdown rendering.
+
+Here’s a corrected and enhanced version of the **screenshots section** in your README:
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
-| Dashboard | Employee Details | Analytics |
-|----------|------------------|-----------|
-| ![Dashboard](screenshots/Dashboard.png) | ![bookmarks](screenshots/bookmarks.png) | ![analytics](screenshots/analytics.png) | ![CreateEmployee](screenshots/CreateEmployee.png) | ![EmployeeDetails](screenshots/EmployeeDetails.png) | ![Signin](screenshots/signin.png) |
+| Dashboard                               | Bookmarks                               | Analytics                               |
+| --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| ![Dashboard](screenshots/Dashboard.png) | ![Bookmarks](screenshots/bookmarks.png) | ![Analytics](screenshots/analytics.png) |
+
+| Create Employee                                   | Employee Details                                    | Sign In                           |
+| ------------------------------------------------- | --------------------------------------------------- | --------------------------------- |
+| ![CreateEmployee](screenshots/CreateEmployee.png) | ![EmployeeDetails](screenshots/EmployeeDetails.png) | ![Signin](screenshots/signin.png) |
 
 ---
+
 
 ## 🛠️ Getting Started
 
