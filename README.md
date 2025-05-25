@@ -2,7 +2,7 @@ Great work completing the project! Here's a professional and well-structured `RE
 
 ---
 
-````markdown
+
 # 💼 HR Dashboard (Advanced)
 
 A feature-rich, responsive **HR Performance Dashboard** built with **Next.js**, **React**, and **Tailwind CSS**. This tool allows HR Managers to efficiently track employee performance, manage bookmarks, and analyze data through beautiful visualizations.
@@ -133,6 +133,3 @@ app/
 
 ---
 
-```
-
----
